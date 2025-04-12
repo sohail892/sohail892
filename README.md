@@ -3,16 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail892&label=Profile%20views&color=0e75b6&style=flat" alt="sohail892" /> </p>
 
+- 🔭 I'm currently working on [Doctor application](https://github.com/sohail892/Virtual-hospital)
 
-- 🔭 I’m currently working on [Doctor application](https://github.com/sohail892/Virtual-hospital)
+- 🌱 I'm currently learning **node js**
 
-- 🌱 I’m currently learning **node js**
-
-- 👯 I’m looking to collaborate on **mobile app project**
+- 👯 I'm looking to collaborate on **mobile app project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sohail892](https://github.com/sohail892)
 
-- 💬 Ask me about **flutter , firebase, Api integration, node js, Dart, Javascript**
+- 💬 Ask me about **flutter, firebase, Api integration, node js, Dart, Javascript**
 
 - 📫 How to reach me **msohailkhan78666666@gmail.com**
 
@@ -20,7 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad sohail hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad sohail hussain" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/devflow-technologies/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DevFlow Technologies LinkedIn" height="30" width="40" /></a>
+<a href="https://www.threads.net/@devflowtechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="DevFlow Threads" height="30" width="40" /></a>
+<a href="https://www.instagram.com/devflowtechs?igsh=MXh5N3ZuYzN5czd3OQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DevFlow Instagram" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad sohail hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad sohail hussain" height="30" width="40" /></a>
 </p>
 
