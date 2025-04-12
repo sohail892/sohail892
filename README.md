@@ -86,7 +86,7 @@ At **DevFlow Technologies**, we specialize in building cutting-edge digital prod
 
 ### 📫 Contact
 
-**Email:** msohailkhan78666666@gmail.com  
+**Email:** devflowtechs@gmail.com  
 **GitHub:** [github.com/sohail892](https://github.com/sohail892)
 
 ---
